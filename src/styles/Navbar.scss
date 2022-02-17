@@ -1,0 +1,41 @@
+.nav-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  color: #fff;
+  background-color: #000;
+  height: 80px;
+}
+
+.nav-logo img {
+  width: 210px;
+}
+
+.nav-items {
+  display: flex;
+}
+
+.nav-item {
+  display: flex;
+  text-align: start;
+}
+
+.nav-right {
+  display: flex;
+  position: relative;
+}
+
+.nav-right-items {
+  display: flex;
+}
+
+.nav-currency {
+  display: flex;
+  align-items: center;
+}
+
+.nav-currency h3 {
+  display: flex;
+  align-items: center;
+}
