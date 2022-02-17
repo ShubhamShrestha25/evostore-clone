@@ -10,54 +10,54 @@ const Navbar = () => {
         </div>
         <div className="nav-items">
           <div className="nav-item">
-            <h3>Apple</h3>
+            <p>Apple</p>
             <KeyboardArrowDownIcon />
           </div>
           <div className="nav-item">
-            <h3>Bose</h3>
+            <p>Bose</p>
             <KeyboardArrowDownIcon />
           </div>
           <div className="nav-item">
-            <h3>JBL</h3>
+            <p>JBL</p>
             <KeyboardArrowDownIcon />
           </div>
           <div className="nav-item">
-            <h3>Accessories</h3>
+            <p>Accessories</p>
             <KeyboardArrowDownIcon />
           </div>
           <div className="nav-item">
-            <h3>Momax</h3>
+            <p>Momax</p>
             <KeyboardArrowDownIcon />
           </div>
           <div className="nav-item">
-            <h3>Brands</h3>
+            <p>Brands</p>
             <KeyboardArrowDownIcon />
           </div>
           <div className="nav-item">
-            <h3>Our Store</h3>
+            <p>Our Store</p>
           </div>
           <div className="nav-item">
-            <h3>EMI</h3>
+            <p>EMI</p>
           </div>
           <div className="nav-item">
-            <h3>Servies</h3>
+            <p>Servies</p>
             <KeyboardArrowDownIcon />
           </div>
         </div>
-        <div className="nav-right">
-          <div className="nav-right-items">
-            <img src="/images/search.png" alt="" />
-            <div className="nav-right-item">
-              <img src="/images/shopping-bag.png" alt="" />
-            </div>
-            <img src="/images/user.png" alt="" />
+      </div>
+      <div className="nav-right">
+        <div className="nav-right-items">
+          <img src="/images/search.png" alt="" />
+          <div className="nav-right-item">
+            <img src="/images/shopping-bag.png" alt="" />
           </div>
-          <div className="nav-currency">
-            NRP
-            <h3>
-              Currency <KeyboardArrowDownIcon />
-            </h3>
-          </div>
+          <img src="/images/user.png" alt="" />
+        </div>
+        <div className="nav-currency">
+          NRP
+          <h3>
+            Currency <KeyboardArrowDownIcon />
+          </h3>
         </div>
       </div>
     </div>
