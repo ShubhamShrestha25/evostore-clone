@@ -8,41 +8,39 @@ const Navbar = () => {
         <div className="nav-logo">
           <img src="/images/evo-logo.png" alt="" />
         </div>
-        <div className="nav-items">
-          <div className="nav-item">
-            <p>Apple</p>
-            <KeyboardArrowDownIcon />
-          </div>
-          <div className="nav-item">
-            <p>Bose</p>
-            <KeyboardArrowDownIcon />
-          </div>
-          <div className="nav-item">
-            <p>JBL</p>
-            <KeyboardArrowDownIcon />
-          </div>
-          <div className="nav-item">
-            <p>Accessories</p>
-            <KeyboardArrowDownIcon />
-          </div>
-          <div className="nav-item">
-            <p>Momax</p>
-            <KeyboardArrowDownIcon />
-          </div>
-          <div className="nav-item">
-            <p>Brands</p>
-            <KeyboardArrowDownIcon />
-          </div>
-          <div className="nav-item">
-            <p>Our Store</p>
-          </div>
-          <div className="nav-item">
-            <p>EMI</p>
-          </div>
-          <div className="nav-item">
-            <p>Servies</p>
-            <KeyboardArrowDownIcon />
-          </div>
+        <div className="nav-item">
+          <p>Apple</p>
+          <KeyboardArrowDownIcon />
+        </div>
+        <div className="nav-item">
+          <p>Bose</p>
+          <KeyboardArrowDownIcon />
+        </div>
+        <div className="nav-item">
+          <p>JBL</p>
+          <KeyboardArrowDownIcon />
+        </div>
+        <div className="nav-item">
+          <p>Accessories</p>
+          <KeyboardArrowDownIcon />
+        </div>
+        <div className="nav-item">
+          <p>Momax</p>
+          <KeyboardArrowDownIcon />
+        </div>
+        <div className="nav-item">
+          <p>Brands</p>
+          <KeyboardArrowDownIcon />
+        </div>
+        <div className="nav-item">
+          <p>Our Store</p>
+        </div>
+        <div className="nav-item">
+          <p>EMI</p>
+        </div>
+        <div className="nav-item">
+          <p>Servies</p>
+          <KeyboardArrowDownIcon />
         </div>
       </div>
       <div className="nav-right">
