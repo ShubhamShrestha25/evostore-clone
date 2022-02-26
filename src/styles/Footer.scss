@@ -1,15 +1,35 @@
-.footer {
-  display: flex;
+.footerTop {
+  margin: 4rem 0px;
 }
 
-.footerTop {
+.footerTop h1 {
+  text-align: center;
+  padding-bottom: 2rem;
 }
 
 .footerTopItems {
   display: flex;
+  justify-content: center;
   align-items: center;
 }
 
 .footerTopItems img {
-  width: 10rem;
+  width: 9rem;
+  margin-left: 2rem;
+}
+
+.footerBottom {
+  display: flex;
+  align-items: center;
+  padding: 2rem 8rem;
+  color: #fff;
+  background: #000;
+  font-size: 16px;
+}
+
+
+
+.footerBottom img {
+  width: 2rem;
+  margin: 0px 1rem;
 }

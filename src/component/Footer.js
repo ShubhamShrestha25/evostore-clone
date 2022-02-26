@@ -17,7 +17,11 @@ const Footer = () => {
         </div>
       </div>
       <div className="footerMiddle"></div>
-      <div className="footerBottom"></div>
+      <div className="footerBottom">
+        <p>© 2022 EvoStore.com | Powered By Pagoda </p>
+        <img src="/images/pgl_logo.png" alt="" />
+        <p>Labs</p>
+      </div>
     </div>
   );
 };
